@@ -4,6 +4,8 @@ A stunning, dark-themed portfolio website with cutting-edge animations and 3D ef
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue) ![Next.js](https://img.shields.io/badge/Built%20with-Next.js-black)
 
+[logo]: https://raw.githubusercontent.com/kunwarxshashank/Portfolio/refs/heads/main/public/screenshots/1.png "Screenshot 1"
+
 ## ✨ Features
 
 ### 🎨 Visual Effects
@@ -36,67 +38,6 @@ A stunning, dark-themed portfolio website with cutting-edge animations and 3D ef
 - **3D Graphics**: Three.js for particle systems and 3D effects
 - **Animations**: Framer Motion and custom CSS animations
 - **Icons**: Lucide React icons
-- **Deployment**: GitHub Pages (static export)
-
-## 🛠️ Installation & Setup
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-
-### Local Development
-
-1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/yourusername/cyberpunk-portfolio.git
-   cd cyberpunk-portfolio
-   \`\`\`
-
-2. **Install dependencies**
-   \`\`\`bash
-   npm install
-   # or
-   yarn install
-   \`\`\`
-
-3. **Run development server**
-   \`\`\`bash
-   npm run dev
-   # or
-   yarn dev
-   \`\`\`
-
-4. **Open in browser**
-   Navigate to `http://localhost:3000`
-
-## 🌐 Deployment to GitHub Pages
-
-### Automatic Deployment (Recommended)
-
-1. **Enable GitHub Pages**
-   - Go to your repository settings
-   - Navigate to "Pages" section
-   - Select "GitHub Actions" as source
-
-2. **Push to main branch**
-   \`\`\`bash
-   git add .
-   git commit -m "Deploy portfolio"
-   git push origin main
-   \`\`\`
-
-The GitHub Action will automatically build and deploy your site.
-
-### Manual Deployment
-
-1. **Build static export**
-   \`\`\`bash
-   npm run build
-   \`\`\`
-
-2. **Deploy the `out` folder** to your GitHub Pages branch
-
-## 🎨 Customization
 
 ### Personal Information
 Edit the following files to customize with your information:

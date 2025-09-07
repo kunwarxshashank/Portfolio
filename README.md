@@ -4,7 +4,7 @@ A stunning, dark-themed portfolio website with cutting-edge animations and 3D ef
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue) ![Next.js](https://img.shields.io/badge/Built%20with-Next.js-black)
 
-[logo]: https://raw.githubusercontent.com/kunwarxshashank/Portfolio/refs/heads/main/public/screenshots/1.png "Screenshot 1"
+![image](https://raw.githubusercontent.com/kunwarxshashank/Portfolio/refs/heads/main/public/screenshots/1.png)
 
 ## ✨ Features
 
